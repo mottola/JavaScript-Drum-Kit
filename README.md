@@ -3,4 +3,4 @@
 - A JavaScript drum kit using audio with key events
 
 
-### To play, simply clone the repo and open index.html in the browser
+- To play, clone the repo and open index.html in the browser
